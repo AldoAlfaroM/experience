@@ -20,8 +20,8 @@ CV = {
     "skills": {
         "Frontend": ["TypeScript", "JavaScript", "Angular 17", "Angular Material",
                      "PrimeNG", "DevExpress", "Highcharts", "HTML", "SCSS", "UI/UX"],
-        "Backend & Data": [".NET Core", "C#", "Dapper", "SQL Server", "MongoDB"],
-        "Tools & Process": ["Git", "SourceTree", "Jira", "Confluence", "Agile"],
+        "Backend & Data": [".NET Core", "C#", "Dapper", "Minimal API","SQL Server", "MongoDB"],
+        "Tools & Process": ["Git", "SourceTree", "Jira", "Confluence", "Agile", "Kanban", "Claude AI", "Postman"],
     },
     "experience": [
         {
